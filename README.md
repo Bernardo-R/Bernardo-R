@@ -59,7 +59,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nuxtjs,ts,tailwind,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nuxtjs,ts,tailwind,azure" /><br/>
     <img src="https://skillicons.dev/icons?i=bootstrap,discord,figma,firebase,github,materialui,nodejs,vscode" />
   </a>
 </p>
